@@ -1,2 +1,3 @@
 # demogit3
-update online
+
+update offline
